@@ -4,9 +4,9 @@ import os
 import requests
 
 # --- CONFIG ---
-TOKEN = 'YOUR_BOT_TOKEN'
-MY_ID = 123456789012345678  # Your Discord User ID
-VERCEL_URL = "https://your-project.vercel.app"
+TOKEN = 'MTQ5NDIyOTE0NTc1MDYwMTgwOA.GBmCYC.2UoBsK0PYtNqIzJkuD_tjSmnFNF274a5I-7MHI'
+MY_ID = 1470018503624097966  # Your Discord User ID
+VERCEL_URL = "temp"
 
 intents = discord.Intents.default()
 intents.message_content = True
